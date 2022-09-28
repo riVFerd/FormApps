@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Form Apps</string>
+    <string name="label_name">Nama :</string>
+    <string name="label_phone_number">Nomor handphone :</string>
+    <string name="label_gender">Jenis Kelamin :</string>
+    <string name="gender_man">Laki - laki</string>
+    <string name="gender_woman">Perempuan</string>
+    <string name="label_location">Alamat :</string>
+    <string name="check_location">Cek Lokasi</string>
+    <string name="label_photo">Foto :</string>
+    <string name="select">Pilih Foto</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_list_participant">ListParticipantActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="label_id_peserta">Id Peserta :</string>
+    <string name="list_participant">Daftar Peserta</string>
+    <string name="reset_data">Reset Data</string>
+    <string name="title">Formulir Pelatihan</string>
+    <string name="image_desc">selected photo</string>
+</resources>
